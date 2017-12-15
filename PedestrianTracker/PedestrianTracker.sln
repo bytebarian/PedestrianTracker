@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedestrianTracker", "PedestrianTracker\PedestrianTracker.csproj", "{A86896B8-DA2B-4C25-BACE-C69FFEA02F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedestrianTracker.Core", "PedestrianTracker.Core\PedestrianTracker.Core.csproj", "{EEBBBAFD-BB11-48D6-A349-30A20F80DACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86896B8-DA2B-4C25-BACE-C69FFEA02F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86896B8-DA2B-4C25-BACE-C69FFEA02F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86896B8-DA2B-4C25-BACE-C69FFEA02F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86896B8-DA2B-4C25-BACE-C69FFEA02F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBBBAFD-BB11-48D6-A349-30A20F80DACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBBBAFD-BB11-48D6-A349-30A20F80DACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBBBAFD-BB11-48D6-A349-30A20F80DACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBBBAFD-BB11-48D6-A349-30A20F80DACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C7C289-9066-4D82-BDE3-79F6821E1AAE}
+	EndGlobalSection
+EndGlobal
